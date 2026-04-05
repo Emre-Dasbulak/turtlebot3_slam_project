@@ -1,3 +1,7 @@
+# Projektziel:
+
+Dieses Projekt demonstriert die Integration modernster Robotik- und Automatisierungstechnologien durch die Simulation eines mobilen TurtleBot3-Roboters in einer virtuellen Umgebung. Ziel ist es, einen Roboter zu entwickeln, der autonom navigiert, eine Umgebung in Echtzeit kartiert (SLAM) und intelligente Entscheidungen zur Hindernisvermeidung trifft. Durch die Kombination von ROS2, Gazebo-Simulation und SLAM-Algorithmen zeigt dieses Projekt praxisnah, wie moderne Robotersysteme in Industrie, Forschung oder Bildung eingesetzt werden können. Es unterstreicht sowohl technisches Know-how als auch die Fähigkeit, komplexe Systeme zu implementieren und zu visualisieren – ein klarer Beweis für praktische Kompetenz in Robotik und Automatisierung.
+
 # Phase 1: ROS2 Humble Installation
 
 Systempakete aktualisieren
